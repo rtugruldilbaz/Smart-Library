@@ -1,0 +1,14 @@
+{
+    "camera_object_id": 1,
+    "camera_person_id": 0,
+    "timeout_seconds": 10,
+    "desk_id": "Desk_1",
+    "confidence_threshold": 0.25,
+    "item_hold_time": 5.0,
+    "person_hold_time": 1.0,
+    "roi_enabled": true,
+    "roi_x1": 63,
+    "roi_y1": 48,
+    "roi_x2": 591,
+    "roi_y2": 411
+}
